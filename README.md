@@ -32,6 +32,10 @@ At the end of the this project, students will be able to;
         |----App.js
 ```
 
+
+https://user-images.githubusercontent.com/107400363/211217133-bff9cb90-c8fb-4ec0-be90-bf6392eccf4f.mp4
+
+
 -  User stories;
 
    - When I click plus button on product's row, I can increase the product's quantity.
