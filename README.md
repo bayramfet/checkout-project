@@ -18,7 +18,6 @@ At the end of the this project, students will be able to;
 
 - Create a checkout page following the design and make the calculation of cart dynamically with using of DOM and Event in JS.
 
-![Form](checkout_app.gif)
 
 ## Project Skeleton 
 
@@ -33,6 +32,7 @@ At the end of the this project, students will be able to;
 ```
 
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/107400363/211217317-191c3e7b-7ad1-4bb0-814b-6a2a43a80354.gif)
 
 
 
@@ -43,9 +43,6 @@ At the end of the this project, students will be able to;
    - When I click remove button on product's row, I can delete a product in the cart.
    - When I change any combination of product chart(plus, minus, remove etc.), I want to see the new calculation of chart's prices in concerned fields.
 
-🔥 You don’t need to create a new html template in this project, you can use [Checkout_Page](https://github.com/clarusway/clarusway-full-stack-tr-12-22/tree/main/html-css/projects/005-checkout-form)  template. We will be concerned in javascript side.
 
 
-## Resources
 
-- [Images](./img/)
